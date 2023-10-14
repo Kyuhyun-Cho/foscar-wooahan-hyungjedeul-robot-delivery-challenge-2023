@@ -1,0 +1,4 @@
+<launch>
+	<!-- args = "(경로가 생성되는 폴더 이름) (생성할 경로의 파일 이름)" -->
+	<node pkg="path_maker" type="path_maker_utmk.py" name="maker" args="path outdoor_portal_12" output="screen" />
+</launch>

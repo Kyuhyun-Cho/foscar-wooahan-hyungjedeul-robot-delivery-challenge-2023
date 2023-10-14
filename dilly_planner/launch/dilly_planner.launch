@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <include file="$(find lidar_object_detection)/launch/object_detection.launch"/>
+    <node pkg="dilly_planner" type="dilly_planner.py" name="dilly_planner" output="screen"/>
+    <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster" args="3.681446969494573e-08 -8.688178354532283e-08 0.73 0 0 0 base_link velodyne 60" />
+    <!-- <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster2" args="0 0 0 0 0 0 map base_link 60" />
+    <node pkg="tf" type="static_transform_publisher" name="link1_broadcaster3" args="0 0 0 0 0 0 map gps 60" /> -->
+
+    <!-- <node pkg="tf" type="static_transform_publisher" name="link2_broadcaster" args="0 0 0 0 0 0 base_link map 100" /> -->
+    <!-- <node pkg="tf" type="static_transform_publisher" name="link3_broadcaster" args="0 0 0 0 0 0 base_link lattice_path_2 100" />
+    <node pkg="tf" type="static_transform_publisher" name="link4_broadcaster" args="0 0 0 0 0 0 base_link lattice_path_3 100" /> -->
+</launch>
