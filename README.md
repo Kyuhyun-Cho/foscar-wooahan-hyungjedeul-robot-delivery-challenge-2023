@@ -10,7 +10,7 @@
 - 조규현
 - 임현진
 - 정혁제
-  
+
 
 ## 대회 포스터
 ![502165](https://github.com/FOSCAR/wooahan-hyungjaedle-robot-delivery-challenge-2023/assets/97654622/d644df78-c49a-41bc-acdc-bf8aa2552b6a)
