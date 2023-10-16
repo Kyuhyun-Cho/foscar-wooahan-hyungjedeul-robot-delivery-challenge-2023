@@ -1,4 +1,4 @@
-## 2023 우아한형제들 배달의민족 로봇배달챌린지
+## 2023 우아한형제들 배달의민족 로봇배달챌린지 - 로봇 자율주행 챌린지 부문
 
 팀 이름: FOSCAR
 
@@ -13,7 +13,7 @@
 
 
 ## 대회 포스터
-![502165](https://github.com/FOSCAR/wooahan-hyungjaedle-robot-delivery-challenge-2023/assets/97654622/d644df78-c49a-41bc-acdc-bf8aa2552b6a)
+![6b2bd2df9c580](https://github.com/FOSCAR/wooahan-hyungjedeul-robot-delivery-challenge-2023/assets/97654622/14ac5ca5-ff1c-4290-95fe-2953972dae7f)
 
 
 ## 실행 코드
